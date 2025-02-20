@@ -1,0 +1,7 @@
+print(" WAA Project (GitHub Version) ")
+print("                 V1               ")
+print(".")
+print(".")
+print(".")
+print(".")
+print(" Set up complete. Please restart your termux and type (python win.py) ")
